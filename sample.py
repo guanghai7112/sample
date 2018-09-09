@@ -2,7 +2,7 @@
 //edit 2nd for test 2018-9-8
 //edit 3rd 4th
 //5 edit under branch dev
-//6.1 edit on master
+//6.2 edit on conflict
 import time,traceback,os,logging,pyautogui
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
